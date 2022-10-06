@@ -2,7 +2,7 @@
 
 - 👋 Olá, sou o Renan Gatti
 - 👀 Estou interessado em compartilhar com vocês os meus projetos e minhas ideias.
-- 🌱 No momento estou estudando HTML, CSS and JavaScript.
+- 🌱 No momento estou estudando HTML, CSS e JavaScript.
 - 📫 Você pode me encontrar no LinkedIn (www.linkedin.com/in/renan-gatti-88aa63113) ou no e-mail: renanfrancisco96@gmail.com
 
 (English)
