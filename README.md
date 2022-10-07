@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="400" src="./src/imagens/welcome.gif">
+  <img src="./src/imagens/welcome.png">
 </p>
 
 <p align="center">
-  <img width="300" src="./src/imagens/name.gif">
+  <img width="250" src="./src/imagens/name.gif">
 </p>
 
 (Portuguese)
