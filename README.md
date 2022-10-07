@@ -1,3 +1,8 @@
+![gif welcome](https://user-images.githubusercontent.com/107943147/194561089-44b76bdc-814a-4b2c-8eb5-3ce94c737b76.gif)
+
+
+
+
 (Portuguese)
 
 - 👋 Olá, sou o Renan Gatti
