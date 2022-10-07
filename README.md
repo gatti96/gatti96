@@ -1,8 +1,8 @@
+![Welcome](https://user-images.githubusercontent.com/107943147/194563383-dd63838b-ad0d-439b-a16b-1665d68bc5b2.png)
 
-  ![Welcome](https://user-images.githubusercontent.com/107943147/194563383-dd63838b-ad0d-439b-a16b-1665d68bc5b2.png)
-
-
-
+<p align="center">
+  <img width="300" src="./src/imagens/name.gif">
+</p>
 
 (Portuguese)
 
