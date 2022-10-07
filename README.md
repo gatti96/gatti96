@@ -1,6 +1,6 @@
-<p align="center">
+
   ![Welcome](https://user-images.githubusercontent.com/107943147/194563383-dd63838b-ad0d-439b-a16b-1665d68bc5b2.png)
-</p>
+
 
 
 
